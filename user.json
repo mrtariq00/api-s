@@ -1,6 +1,10 @@
-{
-"id": 0,
-"username": "string",
-"email": "string",
-"password": "string"
-}
+[
+  {
+    "username": "john",
+    "password": "12345"
+  },
+  {
+    "username": "sara",
+    "password": "abcd"
+  }
+]
