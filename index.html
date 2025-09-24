@@ -3,118 +3,174 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Songs Demo</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
-    .song {
-      border: 1px solid #ddd;
-      padding: 12px;
-      margin-bottom: 16px;
-      display: flex;
-      align-items: flex-start;
-    }
-    .song img {
-      width: 120px;
-      height: auto;
-      margin-right: 16px;
-    }
-    .song-details {
-      flex: 1;
-    }
-    .song-details h3 {
-      margin: 0 0 8px;
-    }
-    .song-details p {
-      margin: 4px 0;
-    }
-    .song-details audio {
-      margin-top: 8px;
-      width: 100%;
-    }
-  </style>
+  <title>TS-Music API Demo</title>
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-  <h1>Song List Demo</h1>
-  <div id="songs-container">Loading songs...</div>
+<body class="bg-gray-100 text-gray-900">
+  <div class="container mx-auto px-4 py-6">
+    <h1 class="text-3xl font-bold text-center mb-4">🎵 TS-Music API</h1>
+    <p class="text-center mb-6">Total Songs: <span id="song-count">0</span> / 1000</p>
+    <p class="text-center mb-6">
+      API Source: 
+      <a href="https://raw.githubusercontent.com/mrtariq00/api-s/refs/heads/main/songsApi.json" 
+         target="_blank" class="text-blue-600 underline">songsApi.json</a>
+    </p>
+
+    <!-- Filters -->
+    <div class="flex flex-wrap gap-4 justify-center mb-8">
+      <input type="text" id="searchInput" placeholder="Search by title, artist, ID..."
+        class="border rounded-lg px-3 py-2 w-64" />
+
+      <select id="yearFilter" class="border rounded-lg px-3 py-2">
+        <option value="">All Years</option>
+      </select>
+
+      <select id="genreFilter" class="border rounded-lg px-3 py-2">
+        <option value="">All Genres</option>
+      </select>
+
+      <select id="ratingFilter" class="border rounded-lg px-3 py-2">
+        <option value="">All Ratings</option>
+      </select>
+    </div>
+
+    <!-- Songs Grid -->
+    <div id="songs-container" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+      Loading songs...
+    </div>
+  </div>
+
+  <!-- Popup Modal -->
+  <div id="songModal" class="fixed inset-0 bg-black bg-opacity-70 hidden items-center justify-center z-50">
+    <div class="bg-white rounded-lg shadow-xl max-w-3xl w-full p-8 relative">
+      <button id="closeModal" class="absolute top-3 right-3 text-gray-500 hover:text-black text-2xl">&times;</button>
+      
+      <div class="flex flex-col items-center text-center">
+        <img id="modalCover" class="w-56 h-56 object-cover rounded-lg shadow mb-4" src="" alt="Cover">
+
+        <h2 id="modalTitle" class="text-2xl font-bold mb-2"></h2>
+        <p id="modalArtist" class="mb-1"></p>
+        <p id="modalYear" class="mb-1"></p>
+        <p id="modalGenre" class="mb-1"></p>
+        <p id="modalRating" class="mb-4"></p>
+
+        <!-- BIG CENTERED PLAYER -->
+        <audio id="modalAudio" controls class="w-full max-w-xl h-16"></audio>
+      </div>
+    </div>
+  </div>
 
   <script>
     const apiUrl = 'https://raw.githubusercontent.com/mrtariq00/api-s/refs/heads/main/songsApi.json';
+    const container = document.getElementById('songs-container');
+    const countEl = document.getElementById('song-count');
+    const yearFilter = document.getElementById('yearFilter');
+    const genreFilter = document.getElementById('genreFilter');
+    const ratingFilter = document.getElementById('ratingFilter');
+    const searchInput = document.getElementById('searchInput');
+
+    const modal = document.getElementById('songModal');
+    const closeModal = document.getElementById('closeModal');
+    const modalCover = document.getElementById('modalCover');
+    const modalTitle = document.getElementById('modalTitle');
+    const modalArtist = document.getElementById('modalArtist');
+    const modalYear = document.getElementById('modalYear');
+    const modalGenre = document.getElementById('modalGenre');
+    const modalRating = document.getElementById('modalRating');
+    const modalAudio = document.getElementById('modalAudio');
+
+    let songs = [];
 
     async function fetchSongs() {
       try {
         const resp = await fetch(apiUrl);
-        if (!resp.ok) {
-          throw new Error('Network response was not ok');
-        }
         const data = await resp.json();
-        return data.songs;
+        songs = data.songs || [];
+        countEl.textContent = songs.length;
+        renderFilters();
+        renderSongs(songs);
       } catch (err) {
         console.error('Error fetching songs:', err);
-        return [];
+        container.innerText = 'Failed to load songs.';
       }
     }
 
-    function renderSongs(songs) {
-      const container = document.getElementById('songs-container');
-      container.innerHTML = ''; // clear loading
+    function renderFilters() {
+      const years = [...new Set(songs.map(s => s.year).filter(Boolean))].sort();
+      const genres = [...new Set(songs.map(s => s.genre).filter(Boolean))];
+      const ratings = [...new Set(songs.map(s => s.rating).filter(Boolean))];
 
-      if (songs.length === 0) {
+      years.forEach(y => yearFilter.innerHTML += `<option value="${y}">${y}</option>`);
+      genres.forEach(g => genreFilter.innerHTML += `<option value="${g}">${g}</option>`);
+      ratings.forEach(r => ratingFilter.innerHTML += `<option value="${r}">${r}</option>`);
+    }
+
+    function renderSongs(list) {
+      container.innerHTML = '';
+      if (list.length === 0) {
         container.innerText = 'No songs found.';
         return;
       }
 
-      songs.forEach(song => {
-        const songEl = document.createElement('div');
-        songEl.className = 'song';
+      list.forEach(song => {
+        const card = document.createElement('div');
+        card.className = "bg-white rounded-lg shadow hover:shadow-xl transition cursor-pointer overflow-hidden";
+        card.innerHTML = `
+          <img src="${song.cover}" alt="${song.title}" class="w-full h-64 object-cover">
+          <div class="p-3">
+            <h3 class="font-semibold text-lg">${song.title}</h3>
+            <p class="text-sm text-gray-600">${song.artist}</p>
+          </div>
+        `;
 
-        const img = document.createElement('img');
-        img.src = song.cover;
-        img.alt = song.title;
+        card.addEventListener('click', () => {
+          modalCover.src = song.cover;
+          modalTitle.textContent = song.title;
+          modalArtist.innerHTML = `<strong>Artist:</strong> ${song.artist}`;
+          modalYear.innerHTML = `<strong>Year:</strong> ${song.year || 'N/A'}`;
+          modalGenre.innerHTML = `<strong>Genre:</strong> ${song.genre || 'N/A'}`;
+          modalRating.innerHTML = `<strong>Rating:</strong> ${song.rating || 'N/A'}`;
+          modalAudio.src = song.src;
+          modal.classList.remove('hidden');
+        });
 
-        const details = document.createElement('div');
-        details.className = 'song-details';
-
-        const title = document.createElement('h3');
-        title.innerText = song.title + ' (' + song.year + ')';
-
-        const artist = document.createElement('p');
-        artist.innerHTML = '<strong>Artist:</strong> ' + song.artist;
-
-        const album = document.createElement('p');
-        album.innerHTML = '<strong>Album:</strong> ' + song.album;
-
-        const genre = document.createElement('p');
-        genre.innerHTML = '<strong>Genre:</strong> ' + song.genre;
-
-        const rating = document.createElement('p');
-        rating.innerHTML = '<strong>Rating:</strong> ' + song.rating;
-
-        const audio = document.createElement('audio');
-        audio.controls = true;
-        audio.src = song.src;
-
-        details.appendChild(title);
-        details.appendChild(artist);
-        details.appendChild(album);
-        details.appendChild(genre);
-        details.appendChild(rating);
-        details.appendChild(audio);
-
-        songEl.appendChild(img);
-        songEl.appendChild(details);
-
-        container.appendChild(songEl);
+        container.appendChild(card);
       });
     }
 
-    // Initialize
-    (async () => {
-      const songs = await fetchSongs();
-      renderSongs(songs);
-    })();
+    function applyFilters() {
+      let filtered = songs;
+      const search = searchInput.value.toLowerCase();
+      const year = yearFilter.value;
+      const genre = genreFilter.value;
+      const rating = ratingFilter.value;
+
+      if (search) {
+        filtered = filtered.filter(s =>
+          s.title.toLowerCase().includes(search) ||
+          s.artist.toLowerCase().includes(search) ||
+          String(s.id).includes(search)
+        );
+      }
+      if (year) filtered = filtered.filter(s => String(s.year) === year);
+      if (genre) filtered = filtered.filter(s => s.genre === genre);
+      if (rating) filtered = filtered.filter(s => s.rating === rating);
+
+      renderSongs(filtered);
+    }
+
+    // Events
+    [searchInput, yearFilter, genreFilter, ratingFilter].forEach(el => {
+      el.addEventListener('input', applyFilters);
+      el.addEventListener('change', applyFilters);
+    });
+
+    closeModal.addEventListener('click', () => modal.classList.add('hidden'));
+    modal.addEventListener('click', e => {
+      if (e.target === modal) modal.classList.add('hidden');
+    });
+
+    fetchSongs();
   </script>
 </body>
 </html>
