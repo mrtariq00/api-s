@@ -35,9 +35,12 @@
     </div>
 
     <!-- Songs Grid -->
-    <div id="songs-container" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+    <div id="songs-container" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
       Loading songs...
     </div>
+
+    <!-- Pagination -->
+    <div id="pagination" class="flex justify-center items-center gap-2 mt-8"></div>
   </div>
 
   <!-- Popup Modal -->
@@ -68,6 +71,7 @@
     const genreFilter = document.getElementById('genreFilter');
     const ratingFilter = document.getElementById('ratingFilter');
     const searchInput = document.getElementById('searchInput');
+    const paginationEl = document.getElementById('pagination');
 
     const modal = document.getElementById('songModal');
     const closeModal = document.getElementById('closeModal');
@@ -80,6 +84,20 @@
     const modalAudio = document.getElementById('modalAudio');
 
     let songs = [];
+    let filteredSongs = [];
+    const perPage = 16;
+
+    // Get page number from URL ?p=2
+    function getPageFromUrl() {
+      const params = new URLSearchParams(window.location.search);
+      return parseInt(params.get("p")) || 1;
+    }
+
+    function setPageInUrl(page) {
+      const params = new URLSearchParams(window.location.search);
+      params.set("p", page);
+      history.pushState({}, "", `${window.location.pathname}?${params}`);
+    }
 
     async function fetchSongs() {
       try {
@@ -88,7 +106,7 @@
         songs = data.songs || [];
         countEl.textContent = songs.length;
         renderFilters();
-        renderSongs(songs);
+        applyFilters();
       } catch (err) {
         console.error('Error fetching songs:', err);
         container.innerText = 'Failed to load songs.';
@@ -105,14 +123,18 @@
       ratings.forEach(r => ratingFilter.innerHTML += `<option value="${r}">${r}</option>`);
     }
 
-    function renderSongs(list) {
+    function renderSongs(list, page = 1) {
       container.innerHTML = '';
       if (list.length === 0) {
         container.innerText = 'No songs found.';
+        paginationEl.innerHTML = '';
         return;
       }
 
-      list.forEach(song => {
+      const start = (page - 1) * perPage;
+      const paginated = list.slice(start, start + perPage);
+
+      paginated.forEach(song => {
         const card = document.createElement('div');
         card.className = "bg-white rounded-lg shadow hover:shadow-xl transition cursor-pointer overflow-hidden";
         card.innerHTML = `
@@ -131,11 +153,32 @@
           modalGenre.innerHTML = `<strong>Genre:</strong> ${song.genre || 'N/A'}`;
           modalRating.innerHTML = `<strong>Rating:</strong> ${song.rating || 'N/A'}`;
           modalAudio.src = song.src;
+          modalAudio.title = song.title;
           modal.classList.remove('hidden');
         });
 
         container.appendChild(card);
       });
+
+      renderPagination(list.length, page);
+    }
+
+    function renderPagination(total, currentPage) {
+      paginationEl.innerHTML = '';
+      const totalPages = Math.ceil(total / perPage);
+
+      if (totalPages <= 1) return;
+
+      for (let i = 1; i <= totalPages; i++) {
+        const btn = document.createElement('button');
+        btn.textContent = i;
+        btn.className = `px-3 py-1 rounded ${i === currentPage ? 'bg-blue-600 text-white' : 'bg-white border'}`;
+        btn.addEventListener('click', () => {
+          setPageInUrl(i);
+          renderSongs(filteredSongs, i);
+        });
+        paginationEl.appendChild(btn);
+      }
     }
 
     function applyFilters() {
@@ -156,13 +199,20 @@
       if (genre) filtered = filtered.filter(s => s.genre === genre);
       if (rating) filtered = filtered.filter(s => s.rating === rating);
 
-      renderSongs(filtered);
+      filteredSongs = filtered;
+      renderSongs(filteredSongs, getPageFromUrl());
     }
 
     // Events
     [searchInput, yearFilter, genreFilter, ratingFilter].forEach(el => {
-      el.addEventListener('input', applyFilters);
-      el.addEventListener('change', applyFilters);
+      el.addEventListener('input', () => {
+        setPageInUrl(1);
+        applyFilters();
+      });
+      el.addEventListener('change', () => {
+        setPageInUrl(1);
+        applyFilters();
+      });
     });
 
     closeModal.addEventListener('click', () => modal.classList.add('hidden'));
@@ -170,6 +220,7 @@
       if (e.target === modal) modal.classList.add('hidden');
     });
 
+    // Init
     fetchSongs();
   </script>
 </body>
