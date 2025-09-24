@@ -1,0 +1,15 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "album": "A Night at the Opera",
+      "year": 1975,
+      "genre": "Rock",
+      "popularity": 95,
+      "cover": "",
+      "src": ""
+    }
+  ]
+}
