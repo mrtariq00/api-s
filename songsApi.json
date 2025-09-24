@@ -8,7 +8,7 @@
       "year": 2009,
       "genre": "Rock",
       "rating": "9/10",
-      "cover": "cover/give me some sunshine.jpeg",
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/give me some sunshine.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Give%20Me%20Some%20Sunshine%20-%20%20Sharman%20Joshi%20and%20Suraj%20Jagan.mp3"
     },
     {
@@ -96,8 +96,8 @@
       "year": 2015,
       "genre": "Romantic/Pop",
       "rating": "8.6/10",
-      "cover": "cover/Roop Tera Mastana.jpeg",
-      "src": "songs/SANAM_-_Roop_Tera_Mastana_-_Ft._Rhys_Sebastian(256k).mp3"
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Roop Tera Mastana.jpeg",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/SANAM_-_Roop_Tera_Mastana_-_Ft._Rhys_Sebastian(256k).mp3"
     },
     {
       "id": 10,
@@ -107,8 +107,8 @@
       "year": 2016,
       "genre": "Emotional/Pop",
       "rating": "8.9/10",
-      "cover": "cover/Tujhse Naraz Nahi Zindagi.jpeg",
-      "src": "songs/SANAM_-_Tujhse_Naraz_Nahi_Zindagi(256k).mp3"
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Tujhse Naraz Nahi Zindagi.jpeg",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/SANAM_-_Tujhse_Naraz_Nahi_Zindagi(256k).mp3"
     }
   ]
 }
