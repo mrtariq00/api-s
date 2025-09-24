@@ -122,7 +122,7 @@
     },
     {
       "id": 13,
-      "title": "Guzarish - Ghajini",
+      "title": "Guzarish",
       "artist": "Javad Ali And Sonu Nigam",
       "year": 2008,
       "genre": "Romantic",
@@ -132,7 +132,7 @@
     },
     {
       "id": 14,
-      "title": "Kabhi Kabhi Aditi Zindagi - Jaane Tu Ya Jaane Na",
+      "title": "Kabhi Kabhi Aditi Zindagi",
       "artist": "Rashid Ali",
       "year": 2008,
       "genre": "Pop",
@@ -142,7 +142,7 @@
     },
     {
       "id": 15,
-      "title": "Main Tera Deewana - Maharaja",
+      "title": "Main Tera Deewana",
       "artist": "Udit Narayan, Kavita Krishnamurthy",
       "year": 1998,
       "genre": "Bollywood",
@@ -152,7 +152,7 @@
     },
     {
       "id": 16,
-      "title": "Manike Mage Hithe - Thank God",
+      "title": "Manike Mage Hithe",
       "artist": "Yohani, Jubin Nautiyal",
       "year": 2022,
       "genre": "Pop",
@@ -172,7 +172,7 @@
     },
     {
       "id": 18,
-      "title": "Mehbooba Mehbooba - Sholay",
+      "title": "Mehbooba Mehbooba",
       "artist": "Helen, Amitabh Bachchan",
       "year": 1975,
       "genre": "Bollywood",
@@ -182,7 +182,7 @@
     },
     {
       "id": 19,
-      "title": "Qayde Se - In Dino",
+      "title": "Qayde Se",
       "artist": "Arijit Singh, Anurag B",
       "year": 2007,
       "genre": "Romantic",
@@ -242,7 +242,7 @@
     },
     {
       "id": 25,
-      "title": "Tu Kaun Kahan Se Aayi Hai - Dil Pardesi Ho Gaya",
+      "title": "Tu Kaun Kahan Se Aayi Hai",
       "artist": "Udit Narayan",
       "year": 2003,
       "genre": "Bollywood",
@@ -252,7 +252,7 @@
     },
     {
       "id": 26,
-      "title": "Yeh Dil Deewana - Pardes",
+      "title": "Yeh Dil Deewana",
       "artist": "Sonu Nigam",
       "year": 1997,
       "genre": "Romantic",
@@ -329,6 +329,76 @@
       "rating": "9.2/10",
       "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Yeh Shaam Mastani.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Eli___Mere_Sapno_Ki_Rani_Full_Song___Vadivelu___New_Tamil_Movie_Video_Song(0).mp3"
+    },
+    {
+      "id": 34,
+      "title": "O Mere Dil Ke Chain",
+      "artist": "Kishore Kumar",
+      "year": 1972,
+      "genre": "Bollywood/Classic",
+      "rating": "9.3/10",
+      "cover": "https://s.saregama.tech/image/c/fw_485/b/fe/7f/omeredilkechain-reprise_1440x1440_1683179625.jpg",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/O_Mere_Dil_Ke_Chain___Rajesh_Khanna,_Tanuja___Mere_Jeevan_Saathi__1972____R.D_Burman___Kishore_Kumar(0).mp3"
+    },
+    {
+      "id": 35,
+      "title": "Yeh Raaten Yeh Mausam",
+      "artist": "SANAM ft. Simran Sehgal",
+      "year": 2016,
+      "genre": "Retro/Pop",
+      "rating": "8.7/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a495607e24f1a8c52aac3e0c",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/SANAM_-_Yeh_Raaten_Yeh_Mausam_-_Ft._Simran_Sehgal(256k).mp3"
+    },
+    {
+      "id": 36,
+      "title": "Yeh Vaada Raha",
+      "artist": "SANAM ft. Mira",
+      "year": 2017,
+      "genre": "Retro/Pop",
+      "rating": "8.8/10",
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/sanam yeh vaha raha.png",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/SANAM_-_Yeh_Vaada_Raha_-_Ft._Mira(256k).mp3"
+    },
+    {
+      "id": 37,
+      "title": "O Mere Dil Ke Chain",
+      "artist": "SANAM",
+      "year": 2015,
+      "genre": "Retro/Pop",
+      "rating": "8.6/10",
+      "cover": "https://c.saavncdn.com/276/Sanam-O-Mere-Dil-Ke-Chain-Hindi-2015-500x500.jpg",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/SANAM_-_O_Mere_Dil_Ke_Chain(256k).mp3"
+    },
+    {
+      "id": 38,
+      "title": "Zindagi Ek Safar Hai Suhana",
+      "artist": "Kishore Kumar",
+      "year": 1971,
+      "genre": "Bollywood/Classic",
+      "rating": "9.4/10",
+      "cover": "https://m.media-amazon.com/images/I/51GtKiGRApL._UF894,1000_QL80_.jpg",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Zindagi_Ek_Safar_Hai_Suhana___Andaz__1971____Hema_Malini___Rajesh_Khanna___Kishore_Kumar_Hits(0).mp3"
+    },
+    {
+      "id": 39,
+      "title": "Mere Samne Wali Khidki Mein",
+      "artist": "SANAM",
+      "year": 2016,
+      "genre": "Retro/Pop",
+      "rating": "8.9/10",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02b4f7680c1994ccd2bdd678b0",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Sanam___Mere_Samne_Wali_Khidki_Mein___Official_Video___Lyrical(256k).mp3"
+    },
+    {
+      "id": 40,
+      "title": "Kya Hua Tera Wada",
+      "artist": "SANAM",
+      "year": 2016,
+      "genre": "Retro/Pop",
+      "rating": "8.8/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a6920699445c60552e4e4e9a",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/SANAM_-_Kya_Hua_Tera_Wada_Pt._2(256k).mp3"
     }
   ]
 }
