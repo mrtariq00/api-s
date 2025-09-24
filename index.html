@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Songs Demo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .song {
+      border: 1px solid #ddd;
+      padding: 12px;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: flex-start;
+    }
+    .song img {
+      width: 120px;
+      height: auto;
+      margin-right: 16px;
+    }
+    .song-details {
+      flex: 1;
+    }
+    .song-details h3 {
+      margin: 0 0 8px;
+    }
+    .song-details p {
+      margin: 4px 0;
+    }
+    .song-details audio {
+      margin-top: 8px;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Song List Demo</h1>
+  <div id="songs-container">Loading songs...</div>
+
+  <script>
+    const apiUrl = 'https://raw.githubusercontent.com/mrtariq00/api-s/refs/heads/main/songsApi.json';
+
+    async function fetchSongs() {
+      try {
+        const resp = await fetch(apiUrl);
+        if (!resp.ok) {
+          throw new Error('Network response was not ok');
+        }
+        const data = await resp.json();
+        return data.songs;
+      } catch (err) {
+        console.error('Error fetching songs:', err);
+        return [];
+      }
+    }
+
+    function renderSongs(songs) {
+      const container = document.getElementById('songs-container');
+      container.innerHTML = ''; // clear loading
+
+      if (songs.length === 0) {
+        container.innerText = 'No songs found.';
+        return;
+      }
+
+      songs.forEach(song => {
+        const songEl = document.createElement('div');
+        songEl.className = 'song';
+
+        const img = document.createElement('img');
+        img.src = song.cover;
+        img.alt = song.title;
+
+        const details = document.createElement('div');
+        details.className = 'song-details';
+
+        const title = document.createElement('h3');
+        title.innerText = song.title + ' (' + song.year + ')';
+
+        const artist = document.createElement('p');
+        artist.innerHTML = '<strong>Artist:</strong> ' + song.artist;
+
+        const album = document.createElement('p');
+        album.innerHTML = '<strong>Album:</strong> ' + song.album;
+
+        const genre = document.createElement('p');
+        genre.innerHTML = '<strong>Genre:</strong> ' + song.genre;
+
+        const rating = document.createElement('p');
+        rating.innerHTML = '<strong>Rating:</strong> ' + song.rating;
+
+        const audio = document.createElement('audio');
+        audio.controls = true;
+        audio.src = song.src;
+
+        details.appendChild(title);
+        details.appendChild(artist);
+        details.appendChild(album);
+        details.appendChild(genre);
+        details.appendChild(rating);
+        details.appendChild(audio);
+
+        songEl.appendChild(img);
+        songEl.appendChild(details);
+
+        container.appendChild(songEl);
+      });
+    }
+
+    // Initialize
+    (async () => {
+      const songs = await fetchSongs();
+      renderSongs(songs);
+    })();
+  </script>
+</body>
+</html>
