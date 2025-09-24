@@ -87,6 +87,28 @@
       "rating": "9.2/10",
       "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Yeh Shaam Mastani.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Yeh Shaam Mastani - Kishore Kumar.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Roop Tera Mastana",
+      "artist": "SANAM (Ft. Rhys Sebastian)",
+      "album": "SANAM Revisited",
+      "year": 2015,
+      "genre": "Romantic/Pop",
+      "rating": "8.6/10",
+      "cover": "cover/Roop Tera Mastana.jpeg",
+      "src": "songs/SANAM_-_Roop_Tera_Mastana_-_Ft._Rhys_Sebastian(256k).mp3"
+    },
+    {
+      "id": 10,
+      "title": "Tujhse Naraz Nahi Zindagi",
+      "artist": "SANAM",
+      "album": "SANAM Revisited",
+      "year": 2016,
+      "genre": "Emotional/Pop",
+      "rating": "8.9/10",
+      "cover": "cover/Tujhse Naraz Nahi Zindagi.jpeg",
+      "src": "songs/SANAM_-_Tujhse_Naraz_Nahi_Zindagi(256k).mp3"
     }
   ]
 }
