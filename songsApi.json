@@ -2,14 +2,91 @@
   "songs": [
     {
       "id": 1,
-      "title": "Bohemian Rhapsody",
-      "artist": "Queen",
-      "album": "A Night at the Opera",
-      "year": 1975,
+      "title": "Give Me Some Sunshine",
+      "artist": "Sharman Joshi and Suraj Jagan",
+      "album": "3 Idiots (Soundtrack)",
+      "year": 2009,
       "genre": "Rock",
-      "popularity": 95,
+      "rating": "9/10",
       "cover": "",
-      "src": ""
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Give%20Me%20Some%20Sunshine%20-%20%20Sharman%20Joshi%20and%20Suraj%20Jagan.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "album": "÷ (Divide)",
+      "year": 2017,
+      "genre": "Pop",
+      "rating": "9.5/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Shape Of You - Ed Sheeran.mp3"
+    },
+    {
+      "id": 3,
+      "title": "O Meri Laila",
+      "artist": "Atif Aslam and Jyotica Tangri",
+      "album": "Laila Majnu (Soundtrack)",
+      "year": 2018,
+      "genre": "Romantic",
+      "rating": "8.8/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/O Meri Laila - Atif Aslam and Jyotica Tangri.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Gulabi Aankhen",
+      "artist": "SANAM",
+      "album": "SANAM Revisited",
+      "year": 2016,
+      "genre": "Romantic/Pop",
+      "rating": "8.5/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Gulabi Aankhen - SANAM.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Mere Samne Wali Khidki Mein",
+      "artist": "Kishore Kumar",
+      "album": "Padosan (Soundtrack)",
+      "year": 1968,
+      "genre": "Bollywood/Classic",
+      "rating": "9/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Mere Samne Wali - Kishore kumar.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Tu Tu Hai Wahi",
+      "artist": "Asha Bhosle and Kishore Kumar",
+      "album": "Yeh Vaada Raha (Soundtrack)",
+      "year": 1982,
+      "genre": "Romantic/Bollywood",
+      "rating": "9/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Tu Tu Hai Wahi - Asha Bhosle and Kishore Kumar.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Yeh Ratein Yeh Mausam",
+      "artist": "Asha Bhosle and Kishore Kumar",
+      "album": "Dilli Ka Thug (Soundtrack)",
+      "year": 1958,
+      "genre": "Bollywood/Classic",
+      "rating": "8.7/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Yeh Ratein Yeh Mausam -  Asha Bhosle and Kishore Kumar.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Yeh Shaam Mastani",
+      "artist": "Kishore Kumar",
+      "album": "Kati Patang (Soundtrack)",
+      "year": 1971,
+      "genre": "Bollywood/Classic",
+      "rating": "9.2/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Yeh Shaam Mastani - Kishore Kumar.mp3"
     }
   ]
 }
