@@ -8,7 +8,7 @@
       "year": 2009,
       "genre": "Rock",
       "rating": "9/10",
-      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/give me some sunshine.jpeg",
+      "cover": "cover/give me some sunshine.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Give%20Me%20Some%20Sunshine%20-%20%20Sharman%20Joshi%20and%20Suraj%20Jagan.mp3"
     },
     {
