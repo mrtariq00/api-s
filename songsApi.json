@@ -109,6 +109,182 @@
       "rating": "8.9/10",
       "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Tujhse Naraz Nahi Zindagi.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/SANAM_-_Tujhse_Naraz_Nahi_Zindagi(256k).mp3"
-    }
+    },
+    {
+    "id": 11,
+    "title": "Dhun Song - Saiyaara",
+    "artist": "Arijit Singh",
+    "album": "3 Idiots (Soundtrack)",
+    "year": 2009,
+    "genre": "Rock",
+    "rating": "9/10",
+    "cover": "https://i.ytimg.com/vi/cUmUOb7j3dc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBqT55lLUScTKxhfZP88HVxZO4RIA",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Lyrical___Dhun_Song___Saiyaara___Ahaan_Panday,_Aneet_Padda___Mithoon___Arijit_Singh___In_cinemas_now(256k).mp3"
+  },
+  {
+    "id": 12,
+    "title": "ايكل حكيم - شو هيدا الغرام",
+    "artist": "Michael Hakim",
+    "album": null,
+    "year": null,
+    "genre": null,
+    "rating": "7/10",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtEY1pT_lQN7Q6VcfqUj5AQ1A2KU-HCbfUg&s",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/دي_جي_مبارك___حزين_الوقت_في_غيابك___من_راب_شارع_السعوديه(256k).mp3"
+  },
+  {
+    "id": 13,
+    "title": "Guzarish - Ghajini",
+    "artist": "Javad Ali And Sonu Nigam",
+    "album": "Ghajini",
+    "year": 2008,
+    "genre": "Romantic",
+    "rating": "8/10",
+    "cover": "https://i.ytimg.com/vi/ztPa6vkM-yY/maxresdefault.jpg",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/LYRICAL__Guzarish____Ghajini_feat._Aamir_Khan___Asin___Love_Song___T-Series(256k).mp3"
+  },
+  {
+    "id": 14,
+    "title": "Kabhi Kabhi Aditi Zindagi - Jaane Tu Ya Jaane Na",
+    "artist": "Rashid Ali",
+    "album": "Jaane Tu Ya Jaane Na",
+    "year": 2008,
+    "genre": "Pop",
+    "rating": "9/10",
+    "cover": "https://i1.sndcdn.com/artworks-uQRVk5HwNQvOgKSd-FJSxGA-t500x500.jpg",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Lyrical__Kabhi_Kabhi_Aditi_Zindagi___Jaane_Tu_Ya_Jaane_Na___A.R._Rahman___Rashid_Ali(256k).mp3"
+  },
+  {
+    "id": 15,
+    "title": "Main Tera Deewana - Maharaja",
+    "artist": "Udit Narayan, Kavita Krishnamurthy",
+    "album": "Maharaja",
+    "year": 1998,
+    "genre": "Bollywood",
+    "rating": "8/10",
+    "cover": "https://i.ytimg.com/vi/J3-sBXxRPK4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDiB-Ovy6Bx3OsNodsjSTIOf84JIg",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Main_Tera_Deewana___Full_HD_Video___Maharaja_Song___Kavita,_Udit_Narayan___Govinda,_Manisha_Koirala(256k).mp3"
+  },
+  {
+    "id": 16,
+    "title": "Manike Mage Hithe - Thank God",
+    "artist": "Yohani, Jubin Nautiyal",
+    "album": "Thank God",
+    "year": 2022,
+    "genre": "Pop",
+    "rating": "8/10",
+    "cover": "https://i1.sndcdn.com/artworks-9ympTzxuw1QvkAuk-qyzzPA-t500x500.jpg",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Manike__Full_Video___Thank_God___Nora,Sidharth__Tanishk,Yohani,Jubin,Surya_R__Rashmi_Virag_Bhushan_K(256k).mp3"
+  },
+  {
+    "id": 17,
+    "title": "Mehbooba Mehbooba",
+    "artist": "Adnan Sami, Sunidhi Chauhan",
+    "album": null,
+    "year": 2000,
+    "genre": "Bollywood",
+    "rating": "7/10",
+    "cover": "https://m.timesofindia.com/photo/71219747/size-142045/71219747.jpg",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Mehbooba_Mehbooba___Adnan_Sami___Sunidhi_Chauhan___Hindi_Blockbuster_Video_Song(256k).mp3"
+  },
+  {
+    "id": 18,
+    "title": "Mehbooba Mehbooba - Sholay",
+    "artist": "Helen, Amitabh Bachchan",
+    "album": "Sholay",
+    "year": 1975,
+    "genre": "Bollywood",
+    "rating": "10/10",
+    "cover": "https://c.saavncdn.com/326/Mehbooba-Mehbooba-Remix--Hindi-2021-20210803082544-500x500.jpg",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Mehbooba_Mehbooba___Sholay__1975____Helen___Amitabh_Bachchan___Bollywood_Dance_Hit_Song(256k).mp3"
+  },
+  {
+    "id": 19,
+    "title": "Qayde Se - In Dino",
+    "artist": "Arijit Singh, Anurag B",
+    "album": "Life in a Metro",
+    "year": 2007,
+    "genre": "Romantic",
+    "rating": "8/10",
+    "cover": "https://i.ytimg.com/vi/QRwLbf3PwO8/maxresdefault.jpg",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Qayde_Se__LYRICS__-_Arijit_Singh___Anurag_B___Pritam,_Amitabh_Bhattacharya___Metro…In_Dino(256k).mp3"
+  },
+  {
+    "id": 20,
+    "title": "Sahiba",
+    "artist": "Aditya Rikhari, Ankita Chhetri",
+    "album": null,
+    "year": 2021,
+    "genre": "Indie",
+    "rating": "7/10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Sahiba__Official_Music_Video____Aditya_Rikhari,_Ankita_Chhetri___T-Series(256k).mp3"
+  },
+  {
+    "id": 21,
+    "title": "Saiyaara",
+    "artist": "Kishore Kumar",
+    "album": null,
+    "year": null,
+    "genre": "Old Bollywood",
+    "rating": "8/10",
+    "cover": "https://i.ytimg.com/vi/MEKI8Qw4z6k/maxresdefault.jpg",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Saiyaara_Kishore_Kumar_FULL_SONG____@rjkisnashorts___Anshuman_Sharma___Old_version_saiyaara(256k).mp3"
+  },
+  {
+    "id": 22,
+    "title": "Shaam Bhi Khoob Hai",
+    "artist": "Alka Yagnik, Kumar Sanu, Udit Narayan",
+    "album": null,
+    "year": 1990,
+    "genre": "Bollywood",
+    "rating": "7/10",
+    "cover": "https://c-cdnet.cdn.smule.com/smule-gg-uw1-s-4/arr/54/d9/1e8afb88-1e2f-4229-91dc-da0eec43c996.jpg",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Shaam_Bhi_Khoob_Hai_Flull_Song____Alka_Yagnik__Kumar_Sanu__and_Udit_Narayan_160K_(256k).mp3"
+  },
+  {
+    "id": 23,
+    "title": "Saiyaara Title Song",
+    "artist": "Tanishk Bagchi, Faheem A, Arslan N, Irshad Kamil",
+    "album": "Saiyaara",
+    "year": 2023,
+    "genre": "Bollywood",
+    "rating": "8/10",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/db/Saiyaara_film_poster.jpg",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Saiyaara_Title_Song___Ahaan_Panday,_Aneet_Padda___Tanishk_Bagchi,_Faheem_A,_Arslan_N___Irshad_Kamil(256k).mp3"
+  },
+  {
+    "id": 24,
+    "title": "Departure Lane",
+    "artist": "Talha Anjum",
+    "album": null,
+    "year": 2021,
+    "genre": "Rap",
+    "rating": "9/10",
+    "cover": "https://i1.sndcdn.com/artworks-zQG7mBjzYqhzOMpr-mh45MA-t500x500.png",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Talha_Anjum_-_Departure_Lane___Prod._by_Umair__Official_Music_Video_(256k).mp3"
+  },
+  {
+    "id": 25,
+    "title": "Tu Kaun Kahan Se Aayi Hai - Dil Pardesi Ho Gaya",
+    "artist": "Udit Narayan",
+    "album": "Dil Pardesi Ho Gaya",
+    "year": 2003,
+    "genre": "Bollywood",
+    "rating": "7/10",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmNLhXkeyJ2pQkdUC9CgVFnggxtUGWtNa_Q&s",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Tu_Kaun_Kahan_Se_Aayi_Hai_-_Udit_Narayan___Dil_Pardesi_Ho_Gaya(256k).mp3"
+  },
+  {
+    "id": 26,
+    "title": "Yeh Dil Deewana - Pardes",
+    "artist": "Sonu Nigam, Shah Rukh Khan",
+    "album": "Pardes",
+    "year": 1997,
+    "genre": "Romantic",
+    "rating": "10/10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730777118a542892d62fe3ef92",
+    "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Yeh_Dil_Deewana___Shah_Rukh_Khan___Sonu_Nigam___Nadeem-Shravan___Pardes(256k).mp3"
+  }
   ]
 }
