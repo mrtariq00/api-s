@@ -8,7 +8,7 @@
       "year": 2009,
       "genre": "Rock",
       "rating": "9/10",
-      "cover": "",
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/give me some sunshine.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Give%20Me%20Some%20Sunshine%20-%20%20Sharman%20Joshi%20and%20Suraj%20Jagan.mp3"
     },
     {
@@ -19,7 +19,7 @@
       "year": 2017,
       "genre": "Pop",
       "rating": "9.5/10",
-      "cover": "",
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Shape_Of_You_(Official_Single_Cover)_by_Ed_Sheeran.png",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Shape Of You - Ed Sheeran.mp3"
     },
     {
@@ -30,7 +30,7 @@
       "year": 2018,
       "genre": "Romantic",
       "rating": "8.8/10",
-      "cover": "",
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/O Meri Laila.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/O Meri Laila - Atif Aslam and Jyotica Tangri.mp3"
     },
     {
@@ -41,7 +41,7 @@
       "year": 2016,
       "genre": "Romantic/Pop",
       "rating": "8.5/10",
-      "cover": "",
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Gulabi Aankhen.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Gulabi Aankhen - SANAM.mp3"
     },
     {
@@ -52,7 +52,7 @@
       "year": 1968,
       "genre": "Bollywood/Classic",
       "rating": "9/10",
-      "cover": "",
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Mere Samne Wali Khidki Mein.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Mere Samne Wali - Kishore kumar.mp3"
     },
     {
@@ -63,7 +63,7 @@
       "year": 1982,
       "genre": "Romantic/Bollywood",
       "rating": "9/10",
-      "cover": "",
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Tu Tu Hai Wahi.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Tu Tu Hai Wahi - Asha Bhosle and Kishore Kumar.mp3"
     },
     {
@@ -74,7 +74,7 @@
       "year": 1958,
       "genre": "Bollywood/Classic",
       "rating": "8.7/10",
-      "cover": "",
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Yeh Ratein Yeh Mausam.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Yeh Ratein Yeh Mausam -  Asha Bhosle and Kishore Kumar.mp3"
     },
     {
@@ -85,7 +85,7 @@
       "year": 1971,
       "genre": "Bollywood/Classic",
       "rating": "9.2/10",
-      "cover": "",
+      "cover": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/cover/Yeh Shaam Mastani.jpeg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Yeh Shaam Mastani - Kishore Kumar.mp3"
     }
   ]
