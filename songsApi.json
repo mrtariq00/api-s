@@ -399,6 +399,98 @@
       "rating": "8.8/10",
       "cover": "https://i.scdn.co/image/ab67616d0000b273a6920699445c60552e4e4e9a",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/SANAM_-_Kya_Hua_Tera_Wada_Pt._2(256k).mp3"
-    }
-  ]
+    },
+    {
+      "id": 41,
+      "title": "TAO BYA",
+      "artist": "Agha Jahanzaib Baloch ft. Amna Zahid Baloch",
+      "year": 2024,
+      "genre": "Balochi & Brahvi",
+      "rating": "8.5/10",
+      "cover": "https://www.shazam.com/mkimage/image/thumb/Music221/v4/f4/11/ff/f411ff35-7a67-2c42-20fa-9fc0a01c9960/764656081409_cover.jpg/510x510bb-60.webp",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/TAO BYA Agha Jahanzaib Baloch Featuring Amna Zahid Baloch Balochi Brahvi Full song 2024.mp3"
+    },
+    {
+      "id": 42,
+      "title": "Nazna",
+      "artist": "Baramsh Baloch, Naveed Mengal, Obaid Sahar, Shahsumal Baloch",
+      "year": 2024,
+      "genre": "Balochi/Performance",
+      "rating": "8.4/10",
+      "cover": "https://i1.sndcdn.com/artworks-JyK8JNDDuSG4ELbZ-5zqLsQ-t500x500.jpg",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Nazna Season 2 Episode 4 ft.Baramsh Baloch Naveed Mengal Obaid Sahar Shahsumal Baloch.mp3"
+    },
+    {
+      "id": 43,
+      "title": "Purr Ka'n De Glass",
+      "artist": "Kaifi Khalil",
+      "year": 2020,
+      "genre": "Balochi/Pop",
+      "rating": "8.3/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735637dda3944de12c011b18cd",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Kaifi Khalil Purr Ka n De Glass A Cover Official Music Video.mp3"
+    },
+    {
+      "id": 44,
+      "title": "Kana Yaari",
+      "artist": "Kaifi Khalil, Eva B, Abdul Wahab Bugti",
+      "year": 2021,
+      "genre": "Pakistani/Pop/Fusion/Balochi",
+      "rating": "9/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730407e4b278400d17970a38af",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Coke Studio Season 14 Kana Yaari Kaifi Khalil x Eva B x Abdul Wahab Bugti.mp3"
+    },
+    {
+      "id": 45,
+      "title": "Bulleya",
+      "artist": "Papon",
+      "year": 2016,
+      "genre": "Bollywood/Pop",
+      "rating": "9/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b2abfd2439b6c23c3664df87",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Bulleya Full Song Sultan Salman Khan Anushka Sharma Papon Vishal Shekhar Irshad Kamil.mp3"
+    },
+    {
+      "id": 46,
+      "title": "Balo Baloch",
+      "artist": "Ishq Ay Tai Talabh",
+      "year": 2024,
+      "genre": "Balochi/Pop",
+      "rating": "8.3/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734020c322c5de09d49582638a",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Balo Baloch Ishq Ay Tai Talabh feat.Lil Ak 100 Official Music Video.mp3"
+    },
+    {
+      "id": 47,
+      "title": "Dil Ka Jo Haal Hai",
+      "artist": "Abhijeet Bhattacharya, Shreya Ghoshal",
+      "year": 2013,
+      "genre": "Bollywood/Pop",
+      "rating": "8.7/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732cc631c765d83b108791012e",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dil Ka Jo Haal Hai Lyrical Besharam Ranbir Kapoor Abhijeet Bhattacharya Shreya Ghoshal.mp3"
+    },
+    {
+      "id": 49,
+      "title": "Ye Tune Kya Kiya",
+      "artist": "Pritam",
+      "year": 2013,
+      "genre": "Bollywood/Pop",
+      "rating": "8.5/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273fe77bd21eb38ff74b5f21524",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Ye Tune Kya Kiya Song Once Upon A Time In Mumbaai Dobara Pritam Akshay Kumar Sonakshi Sinha.mp3"
+    },
+    {
+  "id": 50,
+  "title": "O Rangrez",
+  "artist": "Shreya Ghoshal, Javed Bashir",
+  "year": 2013,
+  "genre": "Bollywood/Pop",
+  "rating": "8.9/10",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273fd2df008046f04c32d9c0c2e",
+  "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/O Rangrez Lyrical Video Bhaag Milkha Bhaag Farhan Sonam Shreya Ghoshal Javed Bashir.mp3"
+}
+
+  ],
+  "url": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/"
 }
