@@ -489,6 +489,46 @@
       "rating": "8.9/10",
       "cover": "https://i.scdn.co/image/ab67616d0000b273fd2df008046f04c32d9c0c2e",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/O Rangrez Lyrical Video Bhaag Milkha Bhaag Farhan Sonam Shreya Ghoshal Javed Bashir.mp3"
+    },
+    {
+      "id": 50,
+      "title": "Itna Na Mujhse Tu Pyaar Badha",
+      "artist": "Lata Mangeshkar, Talat Mahmood",
+      "year": 1961,
+      "genre": "Bollywood/Classical",
+      "rating": "9/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Itna_Na_Mujhse_Tu_Pyaar_Badha__Duet__-_HD_Video___Chhaya_1961____Lata_Mangeshkar___Sunil_D,_Asha_P(0).mp3"
+    },
+    {
+      "id": 120,
+      "title": "Jaane Kahan Mera Jigar Gaya Ji",
+      "artist": "Mohammed Rafi",
+      "year": 1955,
+      "genre": "Bollywood/Classic",
+      "rating": "8.8/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/songs/Jaane_Kahan_Mera_Jigar_Gaya_Ji_[4K]_Song___Johnny_Walker,_Mohd_Rafi___Mr_and_Mrs_55___Evergreen_Song(0).mp3"
+    },
+    {
+      "id": 121,
+      "title": "Pal Pal Dil Ke Paas (Live)",
+      "artist": "Kishore Kumar",
+      "year": 1973,
+      "genre": "Bollywood/Classic",
+      "rating": "9.2/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/songs/Kishor_Live_Pal_pal_dil_ke_paas(0).mp3"
+    },
+    {
+      "id": 122,
+      "title": "Dekha Ek Khwab",
+      "artist": "Kishore Kumar, Lata Mangeshkar",
+      "year": 1981,
+      "genre": "Bollywood/Classic",
+      "rating": "9/10",
+      "cover": "",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/songs/Dekha_Ek_Khwab_Song___Silsila___Amitabh_Bachchan,_Rekha___Kishore_Kumar,_Lata_Mangeshkar,_Shiv-Hari(0).mp3"
     }
   ],
   "url": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/"
