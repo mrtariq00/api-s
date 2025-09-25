@@ -481,16 +481,15 @@
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Ye Tune Kya Kiya Song Once Upon A Time In Mumbaai Dobara Pritam Akshay Kumar Sonakshi Sinha.mp3"
     },
     {
-  "id": 49,
-  "title": "O Rangrez",
-  "artist": "Shreya Ghoshal, Javed Bashir",
-  "year": 2013,
-  "genre": "Bollywood/Pop",
-  "rating": "8.9/10",
-  "cover": "https://i.scdn.co/image/ab67616d0000b273fd2df008046f04c32d9c0c2e",
-  "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/O Rangrez Lyrical Video Bhaag Milkha Bhaag Farhan Sonam Shreya Ghoshal Javed Bashir.mp3"
-}
-
+      "id": 49,
+      "title": "O Rangrez",
+      "artist": "Shreya Ghoshal, Javed Bashir",
+      "year": 2013,
+      "genre": "Bollywood/Pop",
+      "rating": "8.9/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273fd2df008046f04c32d9c0c2e",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/O Rangrez Lyrical Video Bhaag Milkha Bhaag Farhan Sonam Shreya Ghoshal Javed Bashir.mp3"
+    }
   ],
   "url": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/"
 }
