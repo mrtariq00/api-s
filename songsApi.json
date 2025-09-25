@@ -529,6 +529,16 @@
       "rating": "9/10",
       "cover": "https://i.scdn.co/image/ab67616d0000b2738f7eed55aee94c56f5aceac3",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/songs/Dekha_Ek_Khwab_Song___Silsila___Amitabh_Bachchan,_Rekha___Kishore_Kumar,_Lata_Mangeshkar,_Shiv-Hari(0).mp3"
+    },
+    {
+      "id": 123,
+      "title": "Aaj Kal Tere Mere Pyar Ke Charche",
+      "artist": "Mohammed Rafi",
+      "year": 1968,
+      "genre": "Bollywood/Classic",
+      "rating": "9/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b348db1caa9347eb98fe6b93",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Aaj_Kal_Tere_Mere_Pyar_Ke_Charche___Brahmachari__1968____Shammi_Kapoor___Mumtaz___Pran___Hindi_Song(0).mp3"
     }
   ],
   "url": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/"
