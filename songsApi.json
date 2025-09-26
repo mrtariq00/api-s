@@ -1013,13 +1013,13 @@
     },
     {
       "id": 102,
-      "title": "O_Mere_Dil_Ke_Chain ",
-      "artist": "kishore Kumar",
-      "year": 1955,
-      "genre": "Romantic",
-      "rating": "7.3/10",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zio7LHGhxQ2u5wp8y5fZJJSNv3eh9P-26g&s",
-      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/O_Mere_Dil_Ke_Chain___Sanam(256k).mp3"
+      "title": "Taalon_Mein_Nainital",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "year": 1999,
+      "genre": "Bollywood",
+      "rating": "7.0/10",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27367d47b8b1d181fa218b96f07",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Taalon_Mein_Nainital_HD____Hogi_Pyaar_Ki_Jeet___Ajay_Devgn___Arshad_Warsi___Bollywood_Hit_Hindi_Song(256k).mp3"
     },
     {
       "id": 103,
@@ -1571,16 +1571,6 @@
       "rating": "9/10",
       "cover": "https://upload.wikimedia.org/wikipedia/en/b/bc/7-Years-by-Lukas-Graham.jpg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Lukas Graham 7 Years Official Music Video.mp3"
-    },
-    {
-      "id": 158,
-      "title": "Taalon_Mein_Nainital",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "year": 1999,
-      "genre": "Bollywood",
-      "rating": "7.0/10",
-      "cover": "https://i.scdn.co/image/ab67616d0000b27367d47b8b1d181fa218b96f07",
-      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Taalon_Mein_Nainital_HD____Hogi_Pyaar_Ki_Jeet___Ajay_Devgn___Arshad_Warsi___Bollywood_Hit_Hindi_Song(256k).mp3"
     }
   ],
   "url": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/"
