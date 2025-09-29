@@ -1571,6 +1571,787 @@
       "rating": "9/10",
       "cover": "https://upload.wikimedia.org/wikipedia/en/b/bc/7-Years-by-Lukas-Graham.jpg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Lukas Graham 7 Years Official Music Video.mp3"
+    },
+
+    {
+      "id": 171,
+      "title": "Aapka_Kya_Hoga_Janabe_Ali",
+      "artist": "Mika Singh, Sunidhi Chauhan",
+      "year": 2010,
+      "genre": "Bollywood, Dance",
+      "rating": "4.2/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731111adc2ded1cffe91281507",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/_Aapka_Kya_Hoga_Janabe_Ali___Dhanno__Housefull_Full_Song___Akshay_Kumar___Mika_Singh(256k).mp3"
+    },
+    {
+      "id": 172,
+      "title": "Akeli_Na_Bazaar_Jaya_Karo",
+      "artist": "Udit Narayan, Anuradha Paudwal",
+      "year": 1998,
+      "genre": "Bollywood, Romantic",
+      "rating": "4.0/5",
+      "cover": "https://i.ytimg.com/vi/4UD2LegKjaM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDlH5iPDDVuCrhMbh5OcuZR1Q1v8A",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/_Akeli_Na_Bazaar_Jaya_Karo__Lyrical_Video___Major_Saab___Udit_Narayan___Ajay_Devgn,_Sonali_Bendre(256k).mp3"
+    },
+    {
+      "id": 173,
+      "title": "Allah_Maaf_Kare",
+      "artist": "Sonu Nigam, Shilpa Rao",
+      "year": 2011,
+      "genre": "Bollywood, Romantic",
+      "rating": "4.1/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c20d7fe448a5f6e40fac706b",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/_Allah_Maaf_Kare_Full_Song_Desi_Boyz__Feat._Akshay_Kumar,_Chitrangada_Singh(256k).mp3"
+    },
+    {
+      "id": 174,
+      "title": "Anarkali_Disco_Chali",
+      "artist": "Malaika Arora, Sukhwinder Singh, Sunidhi Chauhan",
+      "year": 2012,
+      "genre": "Bollywood, Dance",
+      "rating": "4.3/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27383884809f7f72e104e07cf62",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/_Anarkali_Disco_Chali_Full_Song____Housefull_2___Malaika_Arora_Khan(256k).mp3"
+    },
+    {
+      "id": 175,
+      "title": "Chori_Chori_Sapno_Mein",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "year": 2000,
+      "genre": "Bollywood, Romantic",
+      "rating": "3.9/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273798ddfbd8c18bc2085be8a66",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/_Chori_Chori_Sapno_Mein__Film_Chal_Mere_Bhai,_Salman_Khan_,_Karishma_Kapoor(256k).mp3"
+    },
+    {
+      "id": 176,
+      "title": "Kashmir_Main_Tu_Kanyakumari",
+      "artist": "Arijit Singh, Neeti Mohan, Sunidhi Chauhan",
+      "year": 2013,
+      "genre": "Bollywood, Romantic",
+      "rating": "4.4/5",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-PN8hnaKckC71QFTx3EK7ZuiYeX8BKGnNA&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/_Kashmir_Main_Tu_Kanyakumari__Chennai_Express_Full_Video_Song___Shahrukh_Khan,_Deepika_Padukone(256k).mp3"
+    },
+    {
+      "id": 177,
+      "title": "Oh_Oh_Jane_Jaana",
+      "artist": "Kamaal Khan",
+      "year": 1998,
+      "genre": "Bollywood, Pop",
+      "rating": "4.6/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732f10008df8b756ce27e72813",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/_Oh_Oh_Jane_Jaana__Salman_Khan_Full_Song___Pyaar_Kiya_Toh_Darna_Kya(256k).mp3"
+    },
+    {
+      "id": 178,
+      "title": "50_Cent_-_Just_A_Lil_Bit",
+      "artist": "50 Cent",
+      "year": 2005,
+      "genre": "Hip Hop, Rap",
+      "rating": "4.5/5",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIhXio1MTs8g2SPmN9uuAolfwQ1u9dh4m3KA&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/50_Cent_-_Just_A_Lil_Bit(256k).mp3"
+    },
+    {
+      "id": 179,
+      "title": "Aaina_Bataa_Kaise_",
+      "artist": "Sonu Nigam",
+      "year": 1997,
+      "genre": "Bollywood, Romantic",
+      "rating": "4.0/5",
+      "cover": "https://bajikaraoke.com/image/cache/catalog/karaoke/karaoke_2020/sonu_nigam/aaina_bata_kaise-500x500.png",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Aaina_Bataa_Kaise___Mohabbat__1997____Sanjay_Kapoor___Akshaye_Khanna___Popular_Hindi_Song(256k).mp3"
+    },
+    {
+      "id": 180,
+      "title": "Aaja_Mahiya",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "year": 2000,
+      "genre": "Bollywood, Romantic",
+      "rating": "4.1/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736d9298ab02b37af26093450c",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Aaja_Mahiya___Udit_Narayan___Alka_Yagnik___Prashant_Samaddar___Fiza___2000(0).mp3"
+    },
+    {
+      "id": 181,
+      "title": "Aapke_Pyaar_Mein_Hum",
+      "artist": "Alka Yagnik",
+      "year": 2002,
+      "genre": "Bollywood, Romantic",
+      "rating": "4.0/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d30096abb1be88b190f6f518",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Aapke_Pyaar_Mein_Hum_Song_Video_-_Raaz___Dino_Morea___Malini_Sharma___Alka_Yagnik(0).mp3"
+    },
+    {
+      "id": 182,
+      "title": "Aaj_Ki_Raat",
+      "artist": "Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya",
+      "year": 2024,
+      "genre": "Bollywood, Dance",
+      "rating": "4.2/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735e16168f7e8ff4fb8aace6cf",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Aaj_Ki_Raat_-Full_Song__Stree_2_Tamannaah_Bhatia_Rajkummar_Rao_Sachin-Jigar_Madhubanti_Divya_Amitabh(256k).mp3"
+    },
+    {
+      "id": 183,
+      "title": "Aaye_Ho_Meri_Zindagi_Mein_Tum_Bahar_Banke",
+      "artist": "Alka Yagnik",
+      "year": 1996,
+      "genre": "Bollywood, Romantic",
+      "rating": "4.6/5",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d0c83d0df7151d97c68d74c7",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Aaye_Ho_Meri_Zindagi_Mein_Tum_Bahar_Banke_-_Female___Aamir_Khan,_Karisma_Kapoor___Alka_Yagnik___90_s(0).mp3"
+    },
+    {
+      "id": 184,
+      "title": "FAASLE",
+      "artist": "Aditya Rikhari",
+      "year": 2021,
+      "genre": "Indie Pop",
+      "rating": "4.3/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2733303e064419fab7e8b6d09a8",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Aditya_Rikhari_-_FAASLE(256k).mp3"
+    },
+    {
+      "id": 185,
+      "title": "Admirin__You",
+      "artist": "Karan Aujla, Ikky",
+      "year": 2023,
+      "genre": "Punjabi, Pop",
+      "rating": "4.5/5",
+      "cover": "https://i.scdn.co/image/ab67616d00001e024c54db9dbdd736413e294daa",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Admirin__You__Official_Video__Karan_Aujla___Ikky___Making_Memories___Latest_Punjabi_Songs_2023(256k).mp3"
+    },
+    {
+      "id": 186,
+      "title": "Aisa_Kyun_Hota_Hai",
+      "artist": "Alka Yagnik",
+      "year": 2003,
+      "genre": "Bollywood, Romantic",
+      "rating": "3.9/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27321dd97160f2e9530124ac24b",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Aisa_Kyun_Hota_Hai_Song_Video_-_Ishq_Vishk___Alka_Yagnik___Shahid_Kapoor,_Amrita_Rao___Anu_Malik(0).mp3"
+    },
+    {
+      "id": 187,
+      "title": "Akhiyaan_Milaoon_Kabhi",
+      "artist": "Alka Yagnik, Udit Narayan",
+      "year": 1995,
+      "genre": "Bollywood, Romantic",
+      "rating": "4.2/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2733521c2564103159d186bceab",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Akhiyaan_Milaoon_Kabhi___Raja_-_HD_Video___Madhuri___Sanjay_Kapoor___Udit_N___Alka_Y___Hit_Song(256k).mp3"
+    },
+    {
+      "id": 188,
+      "title": "Akon_-_Lonely",
+      "artist": "Akon",
+      "year": 2005,
+      "genre": "R&B, Hip Hop",
+      "rating": "4.7/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f4914d8ab22ff7339762a8bf",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Akon_-_Lonely(256k).mp3"
+    },
+    {
+      "id": 189,
+      "title": "Andekhi_Anjaani",
+      "artist": "Sonu Nigam, Alka Yagnik",
+      "year": 2002,
+      "genre": "Bollywood, Romantic",
+      "rating": "4.1/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273213ec545f379f9e391e05cba",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Andekhi_Anjaani___Full_Song___Mujhse_Dosti_Karoge___Hrithik_Roshan,_Kareena_Kapoor,_Rani_Mukerji(256k).mp3"
+    },
+    {
+      "id": 190,
+      "title": "ANIMAL__SATRANGA",
+      "artist": "Arijit Singh, Shreyas Puranik",
+      "year": 2023,
+      "genre": "Bollywood, Romantic",
+      "rating": "4.8/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273021d7017f73387b008eab271",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/ANIMAL__SATRANGA_Song__Ranbir_Kapoor,Rashmika_Sandeep_V_Arijit,Shreyas_P,Siddharth-Garima__Bhushan_K(256k).mp3"
+    },
+    {
+      "id": 191,
+      "title": "Pehle_Bhi_Main",
+      "artist": "Vishal Mishra",
+      "year": "2023",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.7/5",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSioaWbjBPU7b_0Np8nOYPCOOXPCiDZdB0wAQ&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/ANIMAL_Pehle_Bhi_Main_Full_Video____Ranbir_Kapoor,Tripti_Dimri__Sandeep_V__Vishal_M,Raj_S__Bhushan_K(256k).mp3"
+    },
+    {
+      "id": 192,
+      "title": "Are_Re_Are",
+      "artist": "Lata Mangeshkar, Udit Narayan",
+      "year": "1997",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.4/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b96494dc6eaedc90919365df",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Are_Re_Are_Song___Dil_To_Pagal_Hai___Shah_Rukh_Khan,_Madhuri_Dixit___Lata_Mangeshkar,_Udit_Narayan(256k).mp3"
+    },
+    {
+      "id": 193,
+      "title": "AUR_-_SHIKAYAT",
+      "artist": "AUR (Usama, Raffey, Ahad)",
+      "year": "2023",
+      "genre": "Indie, Pop, Romantic",
+      "rating": "4.6/5",
+      "cover": "https://i.scdn.co/image/ab67616d00001e022e40b72ccc3db7bff6ddd966",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/AUR_-_SHIKAYAT_-_Raffey_-_Usama_-_Ahad__Official_Music_Video_(256k).mp3"
+    },
+    {
+      "id": 194,
+      "title": "Bandook_Meri_Laila",
+      "artist": "Ash King, Jigar Saraiya, Raftaar",
+      "year": "2017",
+      "genre": "Bollywood, Rap, Dance",
+      "rating": "4.3/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27310f6e20e16cfb965735480bc",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Bandook_Meri_Laila_Song__Lyrics____A_Gentleman_-_SSR___Sidharth_Jacqueline___Sachin-Jigar___Raftaar(256k).mp3"
+    },
+    {
+      "id": 195,
+      "title": "Banjaara",
+      "artist": "Sukhwinder Singh",
+      "year": "2012",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.2/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a2ef89ae0f8d1848081c1449",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Banjaara_-_Full_Song___Ek_Tha_Tiger___Salman_Khan___Katrina_Kaif___Sukhwinder_Singh___Sohail_Sen(256k).mp3"
+    },
+    {
+      "id": 196,
+      "title": "Barbaad",
+      "artist": "Jubin Nautiyal",
+      "year": "2024",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.5/5",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkC5HTgDNGHMo4lpgujSoXuRG-g_9su54VOw&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Barbaad_Song___Saiyaara___Ahaan_Panday,_Aneet_Padda___The_Rish___Jubin_Nautiyal___In_Cinemas_Now(256k).mp3"
+    },
+    {
+      "id": 197,
+      "title": "Ami_Je_Tomar_3.0_",
+      "artist": "Shreya Ghoshal, Madhubanti Bagchi, Arijit Singh",
+      "year": "2022",
+      "genre": "Bollywood, Horror, Romantic",
+      "rating": "4.3/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730b9cb672be380559d195047e",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/BB3__Ami_Je_Tomar_3.0__Full_Video____Vidya_Balan,_Madhuri_Dixit___Shreya_G,_Amaal_M,_Pritam,_Sameer(256k).mp3"
+    },
+    {
+      "id": 198,
+      "title": "Billo_Gutt_Te_Paranda",
+      "artist": "Shubh",
+      "year": "2023",
+      "genre": "Punjabi, Hip-Hop",
+      "rating": "4.4/5",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02a715855f02e840e45ce616b2",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Billo_Gutt_Te_Paranda_Tera_Karda_Kamal_Ni___Shubh___New_punjabi_song_2023__Sulfide_Music(256k).mp3"
+    },
+    {
+      "id": 199,
+      "title": "Chaaha_Toh_Bahut",
+      "artist": "Kumar Sanu, Bela Sulakhe",
+      "year": "1994",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.1/5",
+      "cover": "https://a10.gaanacdn.com/gn_img/albums/Rz4W8evbxD/z4W8Apm4bx/size_m_1713881478.jpg",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Chaaha_Toh_Bahut_Na_Chahe_Tujhe___Imtihan___Saif_Ali_Khan,_Raveena_Tandon___Kumar_Sanu,_Bela___90s(256k).mp3"
+    },
+    {
+      "id": 200,
+      "title": "Chaahat",
+      "artist": "Rahat Fateh Ali Khan",
+      "year": "2012",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.2/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273bb09c146cc6e2afb398716ca",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Chaahat_Full_Song_with_Lyrics__Rahat_Fateh_Ali_Khan__Blood_Money(256k).mp3"
+    },
+    {
+      "id": 201,
+      "title": "Chahun_Main_Ya_Naa",
+      "artist": "Arijit Singh, Palak Muchhal",
+      "year": "2013",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.8/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736404721c1943d5069f0805f3",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Chahun_Main_Ya_Naa_Full_Video_Song_Aashiqui_2___Aditya_Roy_Kapur,_Shraddha_Kapoor(256k).mp3"
+    },
+    {
+      "id": 202,
+      "title": "CHAL_DIYE_TUM_KAHAN",
+      "artist": "AUR (Usama, Raffey, Ahad)",
+      "year": "2023",
+      "genre": "Indie, Pop",
+      "rating": "4.5/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732297d77fe723a5a3c8f41ed3",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/CHAL_DIYE_TUM_KAHAN___AUDIO_🎧___AUR___AHAD_KHAN____USAMA_ALI___RAFFEY_ANWAR___KABHI_MAIN_KABHI_TUM(256k).mp3"
+    },
+    {
+      "id": 203,
+      "title": "Chalo_Ishq_Ladaaye",
+      "artist": "Sonu Nigam, Alka Yagnik",
+      "year": "2002",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.2/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273926bcef204bfc8a1dc464c08",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Chalo_Ishq_Ladaaye___Sonu_Nigam___Alka_Yagnik___Chalo_Ishq_Ladaaye___2002(256k).mp3"
+    },
+    {
+      "id": 204,
+      "title": "Chamma_Chamma",
+      "artist": "Alka Yagnik",
+      "year": "1998",
+      "genre": "Bollywood, Dance, Item Song",
+      "rating": "4.4/5",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1KxelXRvOhOZ2R_exKa05AwtncnsblYg1g&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Chamma_Chamma___China_-_Gate___Urmila_Matondkar___Alka_Yagnik___90_s_Item_Song(0).mp3"
+    },
+    {
+      "id": 205,
+      "title": "Chunnari_Chunnari",
+      "artist": "Abhijeet Bhattacharya, Anuradha Sriram",
+      "year": "1999",
+      "genre": "Bollywood, Dance",
+      "rating": "4.3/5",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeieXXDxzDv-aHWmuPYZSwu3qEWjekULcwtg&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Chunnari_Chunnari___Biwi_No.1___Salman_Khan___Sushmita_Sen___Abhijeet_Bhattacharya___Anuradha_Sriram(256k).mp3"
+    },
+    {
+      "id": 206,
+      "title": "Chura_Ke_Dil_Mera",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "year": "1994",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.5/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738f3ae850e5c27b2f6d4ec696",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Chura_Ke_Dil_Mera_-_4K_VIDEO___Akshay___Shilpa___Main_Khiladi_Tu_Anari___Kumar_Sanu___Alka_Yagnik(256k).mp3"
+    },
+    {
+      "id": 207,
+      "title": "Afreen_Afreen",
+      "artist": "Rahat Fateh Ali Khan, Momina Mustehsan",
+      "year": "2016",
+      "genre": "Coke Studio, Sufi, Romantic",
+      "rating": "4.9/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732f9ca20eb76734b6361588b0",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Coke_Studio_Season_9__Afreen_Afreen__Rahat_Fateh_Ali_Khan___Momina_Mustehsan(256k).mp3"
+    },
+    {
+      "id": 208,
+      "title": "Dekha_Ek_Khwab",
+      "artist": "Kishore Kumar, Lata Mangeshkar",
+      "year": "1981",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.7/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738f7eed55aee94c56f5aceac3",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dekha_Ek_Khwab_Song___Silsila___Amitabh_Bachchan,_Rekha___Kishore_Kumar,_Lata_Mangeshkar,_Shiv-Hari(256k).mp3"
+    },
+    {
+      "id": 209,
+      "title": "Ishq_Bawla",
+      "artist": "Dhanda Nyoliwala",
+      "year": "2023",
+      "genre": "Haryanvi, Hip-Hop",
+      "rating": "4.2/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f42805148e916145f858318b",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dhanda_Nyoliwala_-_Ishq_Bawla__Official_Video____Xvir_Grewal___Coke_Studio_Bharat___Haryanvi_Song(256k).mp3"
+    },
+    {
+      "id": 210,
+      "title": "Dheere_Dheere",
+      "artist": "Anirudh Ravichander, Shilpa Rao",
+      "year": "2024",
+      "genre": "Bollywood, Romantic",
+      "rating": "4.3/5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d4617a7b719bf8225f7d0308",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dheere_Dheere__Full_Video____Devara___NTR___Janhvi_Kapoor___Anirudh___Shilpa_Rao(256k).mp3"
+    },
+    {
+      "id": 211,
+      "title": "RUNG_ROOP",
+      "artist": "Dijay Khalifa ft. Lucman",
+      "year": 2023,
+      "genre": "Hip Hop",
+      "rating": "4.1",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZXZbhlZGh5dMfIERJq-XxHZDxwbIR_QcOQ&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dijay_Khalifa_-_RUNG_ROOP_ft._Lucman__Official_Music_Video_(256k).mp3"
+    },
+    {
+      "id": 212,
+      "title": "DIL_CHEEZ_TUJHE_DEDI",
+      "artist": "Ankit Tiwari, Arijit Singh",
+      "year": 2016,
+      "genre": "Bollywood Dance",
+      "rating": "4.3",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2zG8dFroFQoTHDJn8W0Z605_9pZio2mWysw&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/DIL_CHEEZ_TUJHE_DEDI_Full_Video_Song___AIRLIFT___Akshay_Kumar___Ankit_Tiwari,_Arijit_Singh(256k).mp3"
+    },
+    {
+      "id": 213,
+      "title": "Dil_Deewana",
+      "artist": "Udit Narayan",
+      "year": 1999,
+      "genre": "Romantic",
+      "rating": "4.0",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27367d47b8b1d181fa218b96f07",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dil_Deewana_Kehta_Hai_Ki_Pyaar_Kar_l_Hogi_Pyaar_Ki_Jeet_1999_l_Udit_Narayan_l_Arshad_Warsi_l_Full_HD(256k).mp3"
+    },
+    {
+      "id": 214,
+      "title": "Ek Dilruba Hai",
+      "artist": "Udit Narayan",
+      "year": 1994,
+      "genre": "Bollywood Romantic",
+      "rating": "3.9",
+      "cover": "https://i.ytimg.com/vi/-UgrS_B53Yc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBPc66PMgTusIiNWYzxBxOQiN_glw",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dil_Karta_Hai_Tujhe_Apna_Bana_Lu___Ek_Dilruba_Hai___Udit_Narayan___Hindi_Song(256k).mp3"
+    },
+    {
+      "id": 215,
+      "title": "Dil_Kehta_Hai_Chal_Unse_Mil",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "year": 1995,
+      "genre": "Romantic",
+      "rating": "4.2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqOE1fxrdvEKzccOJ6uN4OjcMk6UK-Fudh4Q&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dil_Kehta_Hai_Chal_Unse_Mil___4k_Video_Song___Akele_Hum_Akele_Tum___Aamir_Khan,_Manisha_Koirala(256k).mp3"
+    },
+    {
+      "id": 216,
+      "title": "Dil Mera Tod Diya",
+      "artist": "Alka Yagnik",
+      "year": 2001,
+      "genre": "Bollywood Romantic",
+      "rating": "4.0",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfm3ERkhvxEcVhJNOQeVi3C_Bk0yUPHBL9tg&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dil_Mera_Tod_Diya__Full_4K_Video_Song____Alka_Yagnik___Kasoor_Movie(256k).mp3"
+    },
+    {
+      "id": 217,
+      "title": "Dil To Pagal Hai",
+      "artist": "Lata Mangeshkar, Udit Narayan",
+      "year": 1997,
+      "genre": "Romantic Musical",
+      "rating": "4.7",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b96494dc6eaedc90919365df",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dil_To_Pagal_Hai_Song___Shah_Rukh_Khan,_Madhuri_Dixit,_Karisma_Kapoor,_Akshay_Kumar,_Lata_Mangeshkar(256k).mp3"
+    },
+    {
+      "id": 218,
+      "title": "Do You Know",
+      "artist": "Sonu Nigam, Shreya Ghoshal",
+      "year": 2012,
+      "genre": "Bollywood Pop",
+      "rating": "4.0",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7LQOUujVkRrwQg8mUU5AErFbP051mdWoYQ&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Do_You_Know_Housefull_2_Full_Video_Song__official___Akshay_Kumar,_Asin(256k).mp3"
+    },
+    {
+      "id": 219,
+      "title": "O Maahi",
+      "artist": "Arijit Singh",
+      "year": 2023,
+      "genre": "Romantic",
+      "rating": "4.8",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzeG5vIARcHIAMGf3k1K4ggpzFss1_4JkbA&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Dunki__O_Maahi__Full_Video____Shah_Rukh_Khan___Taapsee_Pannu___Pritam___Arijit_Singh___Irshad_Kamil(256k).mp3"
+    },
+    {
+      "id": 220,
+      "title": "Ek Chumma",
+      "artist": "Sohail Sen, Altamash Faridi, Neeti Mohan",
+      "year": 2019,
+      "genre": "Bollywood Dance",
+      "rating": "4.1",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcRTjHAjiLprbIjw4YC9VbZx0iWdPANSD6iw&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Ek_Chumma_Video___Housefull_4___Akshay_K,_Riteish_D,_Bobby_D,_Kriti_S,_Pooja,_Kriti_K___Sohail_Sen(256k).mp3"
+    },
+    {
+      "id": 221,
+      "title": "Ek_Din_Aap",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "year": 1997,
+      "genre": "Romantic",
+      "rating": "4.4",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730f0e4b68ed5159c70422c18f",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Ek_Din_Aap_-_HD_VIDEO___Shah_Rukh_Khan___Juhi_Chawla___Yes_Boss___90_s_Romantic_Hindi_Songs(256k).mp3"
+    },
+    {
+      "id": 222,
+      "title": "Ek_Ladki",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "year": 2002,
+      "genre": "Romantic",
+      "rating": "4.1",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeM1JEa_r0vu2bnpR9KxRq_C7DaRvxw8-OKw&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Ek_Ladki_Song___Mere_Yaar_Ki_Shaadi_Hai___Uday,_Sanjana___Udit_Narayan,_Alka_Yagnik___Jeet-Pritam(256k).mp3"
+    },
+    {
+      "id": 223,
+      "title": "Finding_Her",
+      "artist": "Kushagra",
+      "year": 2023,
+      "genre": "Indie Pop",
+      "rating": "3.9",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27383141000ee8ce3b893a0b425",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Finding_Her__Official_Video____Kushagra___Vanshika_Kashyap___Bharath___UR_Debut(256k).mp3"
+    },
+    {
+      "id": 224,
+      "title": "Chuttamalle",
+      "artist": "Anirudh Ravichander, Shilpa Rao",
+      "year": 2024,
+      "genre": "Telugu Romantic",
+      "rating": "4.6",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736d97b3dc154dfdbe2321fb5c",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Full_Video__Chuttamalle_-_Devara___NTR___Janhvi_Kapoor___Anirudh___Shilpa_Rao___Koratala_Siva(256k).mp3"
+    },
+    {
+      "id": 225,
+      "title": "Gham_Hai_Ya_Khushi_Hai_Tu",
+      "artist": "Alka Yagnik",
+      "year": 1999,
+      "genre": "Romantic",
+      "rating": "4.0",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJR-JiJJcm9__rYaKY2J8oFfZwMts7fyS2w&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Gham_Hai_Ya_Khushi_Hai_Tu_-_Kartoos__1999__Alka_Yagnik___Sanjay_Dutt___Manisha_Koirala_Songs.(256k).mp3"
+    },
+    {
+      "id": 226,
+      "title": "Gore_Gore_Mukhde_Pe_Kala_Kala_Chasma",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "year": 1994,
+      "genre": "Bollywood Dance",
+      "rating": "4.2",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273bcd584fddd7223b04bbc084f",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Gore_Gore_Mukhde_Pe_Kala_Kala_Chasma_Song___Akshay_Kumar___Suhaag___90_s_Songs___Udit_Narayan,_Alka(256k).mp3"
+    },
+    {
+      "id": 227,
+      "title": "Allah_Miya",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "year": 1997,
+      "genre": "Romantic",
+      "rating": "4.1",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5CgjHMJohEb7QK8fBvqo9OZOaloMwoyrJNQ&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Haan_Mujhe_Pyaar_Hua_Allah_Miya___Judaai___Anil_Kapoor,_Urmila(256k).mp3"
+    },
+    {
+      "id": 228,
+      "title": "Hangover",
+      "artist": "Salman Khan, Shreya Ghoshal",
+      "year": 2014,
+      "genre": "Bollywood Pop",
+      "rating": "4.3",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273232bade47d843bb107ec169f",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Hangover_Full_Video_Song___Kick___Salman_Khan,_Jacqueline_Fernandez___Meet_Bros_Anjjan(256k).mp3"
+    },
+    {
+      "id": 229,
+      "title": "Haseeno_Ko_Aate_Hain_Kya_Kya_Bahane",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "year": 1997,
+      "genre": "Bollywood Dance",
+      "rating": "3.9",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy89z4eKmumdgBnXEVyIBRZ7owg34R2prajg&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Haseeno_Ko_Aate_Hain_Kya_Kya_Bahane___Udit_Narayan,_Alka_Yagnik___Lahoo_Ke_Do_Rang_Songs___Akshay(256k).mp3"
+    },
+    {
+      "id": 230,
+      "title": "Heer",
+      "artist": "Ali Raza",
+      "year": 2022,
+      "genre": "Punjabi Romantic",
+      "rating": "4.0",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kXCpW6EXyqi-hWUc9PSTgHgQQ5KkY6Gylw&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Heer_by_Ali_Raza_music___New_trending_song_by_Ali_Raza(256k).mp3"
+    },
+    {
+      "id": 231,
+      "title": "Ho_Nahin_Sakta",
+      "artist": "Udit Narayan",
+      "year": 1996,
+      "genre": "Romantic",
+      "rating": "4.2",
+      "cover": "https://i.ytimg.com/vi/0vXTVXM6HEE/hqdefault.jpg",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Ho_Nahin_Sakta_Full_Video_Song___Diljale___Udit_Narayan___Anu_Malik___Ajay_Devgn,_Sonali_Bendre(256k).mp3"
+    },
+    {
+      "id": 232,
+      "title": "Shaitan_Ka_Saala",
+      "artist": "Vishal Dadlani",
+      "year": 2019,
+      "genre": "Bollywood Dance",
+      "rating": "4.3",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOWrkC2lKivUvQdRedo0kHBuHvvqOEPVWuA&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Housefull_4__Shaitan_Ka_Saala_Video___Akshay_Kumar___Sohail_Sen_Feat._Vishal_Dadlani(256k).mp3"
+    },
+    {
+      "id": 233,
+      "title": "Humein_Na_Bhulana_Sajan",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "year": 1999,
+      "genre": "Romantic",
+      "rating": "3.9",
+      "cover": "https://i.ytimg.com/vi/yzATyyPv1F4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZF8PJ-zWbFOWYXpCH2AoOEAhYTA",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Humein_Na_Bhulana_Sajan-Full_HD_Video_Song-Hogi_Pyaar_Ki_Jeet_1999-Ajay_Devgan-Neha_B(256k).mp3"
+    },
+    {
+      "id": 234,
+      "title": "Humsafar",
+      "artist": "Akhil Sachdeva, Mansheel Gujral",
+      "year": 2017,
+      "genre": "Romantic",
+      "rating": "4.5",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqFOeO4U3YKB6R5XMaO0zYKGSvsO_a1lW-GA&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Humsafar_Song___Saiyaara___Ahaan_Panday___Aneet_Padda__Sachet_Tandon,_Parampara_Tandon,_Irshad_Kamil(256k).mp3"
+    },
+    {
+      "id": 235,
+      "title": "Iktara",
+      "artist": "Amitabh Bhattacharya, Kavita Seth",
+      "year": 2009,
+      "genre": "Indie Pop / Bollywood",
+      "rating": "4.6",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27302ef23e492fb485d08068845",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Iktara_-_Lyric_Video_-_Wake_Up_Sid___Ranbir_Kapoor___Konkona_Sen_Sharma(256k).mp3"
+    },
+    {
+      "id": 236,
+      "title": "Ishq_Hai",
+      "artist": "Anurag Saikia",
+      "year": 2023,
+      "genre": "Indie Pop",
+      "rating": "4.0",
+      "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845b0e2188a5ec2a7080ab1816",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Ishq_Hai__Official_Music_Video____Mismatched_Season_3___A_Netflix_Series___Anurag_Saikia(256k).mp3"
+    },
+    {
+      "id": 237,
+      "title": "Ishq_Hua_Kaise_Hua",
+      "artist": "Udit Narayan, Vibha Sharma",
+      "year": 1997,
+      "genre": "Romantic",
+      "rating": "4.1",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732ecc4dcd190f35460f8c7573",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Ishq_Hua_Kaise_Hua_Full_Video_-_Ishq___Aamir_Khan,_Juhi_Chawla___Udit_Narayan,_Vibha_Sharma(256k).mp3"
+    },
+    {
+      "id": 238,
+      "title": "Ishq_Kameena",
+      "artist": "Sonu Nigam, Alka Yagnik",
+      "year": 2002,
+      "genre": "Bollywood Dance",
+      "rating": "4.2",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732bf24fe4f342ac4d0563b8a4",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Ishq_Kameena_-_Full_Video___Shakti___Shahrukh_Khan___Aishwarya_Rai_I_Sonu_Nigam___Alka_Yagnik(0).mp3"
+    },
+    {
+      "id": 239,
+      "title": "Jab Bhi Koi Haseena",
+      "artist": "K.K.",
+      "year": 2000,
+      "genre": "Romantic",
+      "rating": "4.0",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273709efcc085a2f834962ea49e",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Jab Bhi Koi Haseena Dekhu _ K. K. _ Hera Pheri 2000 Songs _ Akshay Kumar(256k).mp3"
+    },
+    {
+      "id": 240,
+      "title": "JAB_TAK",
+      "artist": "Armaan Malik",
+      "year": 2016,
+      "genre": "Romantic",
+      "rating": "4.7",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27302dde7bfff94df00c8b76eb4",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/JAB_TAK_Full_Video___M.S._DHONI_-THE_UNTOLD_STORY___Armaan_Malik,_Amaal_Mallik__Sushant_Singh_Rajput(256k).mp3"
+    },
+    {
+      "id": 241,
+      "title": "Jab_Tum_Aa_Jate_Ho_Samne",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "year": 1998,
+      "genre": "Bollywood, Romantic",
+      "rating": "8.1",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273cc0bc3faaa2e3906075c5752",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Jab_Tum_Aa_Jate_Ho_Samne-Maharaja_1998_Full_Video_Song,_Govinda,_Manisha_Koirala(256k).mp3"
+    },
+    {
+      "id": 242,
+      "title": "Janiye",
+      "artist": "Vishal Mishra, Rashmeet Kaur",
+      "year": 2023,
+      "genre": "Bollywood, Pop",
+      "rating": "8.3",
+      "cover": "https://i.scdn.co/image/ab67616d00001e026624811ee1d8d7ccf5fadb80",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Janiye___Music_Video___Chor_Nikal_Ke_Bhaga___Vishal_Mishra,_Rashmeet_Kaur__Netflix_India(256k).mp3"
+    },
+    {
+      "id": 243,
+      "title": "Jadoo_Hai_Tera_Hi_Jadoo",
+      "artist": "Kumar Sanu, Alka Yagnik",
+      "year": 1998,
+      "genre": "Bollywood, Romantic",
+      "rating": "8.0",
+      "cover": "https://i.scdn.co/image/ab67616d00001e025a2b8a4b4bfd3e7d0ca05228",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Jadoo_Hai_Tera_Hi_Jadoo___Ghulam___Aamir_Khan___Rani_Mukherjee__Kumar_Sanu___Alka_Yagnik___90_s_Hits(0).mp3"
+    },
+    {
+      "id": 244,
+      "title": "Chaleya",
+      "artist": "Arijit Singh, Shilpa Rao",
+      "year": 2023,
+      "genre": "Bollywood, Romantic",
+      "rating": "9.1",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27360dbbb589dff0c57a3a4ffb2",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/JAWAN__Chaleya__Hindi____Shah_Rukh_Khan___Nayanthara___Atlee___Anirudh___Arijit_S,_Shilpa_R___Kumaar(256k).mp3"
+    },
+    {
+      "id": 245,
+      "title": "Kitaben_Bahut_Si",
+      "artist": "Vinod Rathod, Alka Yagnik",
+      "year": 1993,
+      "genre": "Bollywood, Romantic",
+      "rating": "8.2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivA8cunLLbUlFhVGFGJzGNvTLT5jegrbTmA&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Kitaben_Bahut_Si_-_HD_VIDEO_SONG___Shahrukh_Khan___Shilpa_Shetty___Baazigar___Hindi_Song(256k).mp3"
+    },
+    {
+      "id": 256,
+      "title": "7 Years",
+      "artist": "Lukas Graham",
+      "year": 2015,
+      "genre": "Pop, Soul",
+      "rating": "9.3",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734a7ece72ae5895a21eaa5be9",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Lukas_Graham_-_7_Years(256k).mp3"
+    },
+    {
+      "id": 257,
+      "title": "Dhun",
+      "artist": "Arijit Singh, Mithoon",
+      "year": 2022,
+      "genre": "Bollywood, Romantic",
+      "rating": "8.5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273781faf59a3cb980fe3b493f8",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Lyrical___Dhun_Song___Saiyaara___Ahaan_Panday,_Aneet_Padda___Mithoon___Arijit_Singh___In_cinemas_now(256k).mp3"
+    },
+    {
+      "id": 258,
+      "title": "Señorita",
+      "artist": "Farhan Akhtar, Hrithik Roshan, Abhay Deol, María del Mar Fernández",
+      "year": 2011,
+      "genre": "Bollywood, Latin Pop",
+      "rating": "9.0",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeZH-j3yBeQxB3R_6rLCkSM2aaHStLsFZaQ&s",
+      "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Lyrical___Senorita___Zindagi_Na_Milegi_Dobara___Farhan_Akhtar,_Hrithik_Roshan,_Abhay_Deol(256k).mp3"
     }
   ],
   "url": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/"
