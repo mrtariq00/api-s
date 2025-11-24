@@ -1568,7 +1568,7 @@
       "artist": "Lukas Graham",
       "year": 2015,
       "genre": "Pop",
-      "rating": "9/10",
+      "rating": "9",
       "cover": "https://upload.wikimedia.org/wikipedia/en/b/bc/7-Years-by-Lukas-Graham.jpg",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/Lukas Graham 7 Years Official Music Video.mp3"
     },
@@ -1579,7 +1579,7 @@
       "artist": "Mika Singh, Sunidhi Chauhan",
       "year": 2010,
       "genre": "Bollywood, Dance",
-      "rating": "4.2/5",
+      "rating": "4.2",
       "cover": "https://i.scdn.co/image/ab67616d0000b2731111adc2ded1cffe91281507",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/_Aapka_Kya_Hoga_Janabe_Ali___Dhanno__Housefull_Full_Song___Akshay_Kumar___Mika_Singh(256k).mp3"
     },
@@ -1589,7 +1589,7 @@
       "artist": "Udit Narayan, Anuradha Paudwal",
       "year": 1998,
       "genre": "Bollywood, Romantic",
-      "rating": "4.0/5",
+      "rating": "4.0",
       "cover": "https://i.ytimg.com/vi/4UD2LegKjaM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDlH5iPDDVuCrhMbh5OcuZR1Q1v8A",
       "src": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/songs/_Akeli_Na_Bazaar_Jaya_Karo__Lyrical_Video___Major_Saab___Udit_Narayan___Ajay_Devgn,_Sonali_Bendre(256k).mp3"
     },
@@ -2359,7 +2359,7 @@
       "artist": "Kishore Kumar",
       "year": 1981,
       "genre": "Rock",
-      "rating": "9.4/10",
+      "rating": "9.4",
       "cover": "https://i1.sndcdn.com/artworks-000284453564-tsfspv-t500x500.jpg",
       "src": "https://ucbc16415b40bc763ae0a2086fec.dl.dropboxusercontent.com/cd/0/inline/C1ze6vEiX_4zu32SqYU6YUqCwPPJ0egGX_ykf8WcXEcQSg2U-5CTXD62llXyN16XPVrUkAzb3Lra1Q67L1a4nVmFuDrmn1iiHTZhllEK0gbu40cwJKy6utdMyWE8frcXGE81FA-hZsorpWhSMP0cZo23/file#"
     },
@@ -2369,7 +2369,7 @@
       "artist": "S. P. Balasubrahmanyam",
       "year": 1989,
       "genre": "Rock",
-      "rating": "8.5/10",
+      "rating": "8.5",
       "cover": "https://m.media-amazon.com/images/I/51qeh+6xgNL._SY300_SX300_QL70_FMwebp_.jpg",
       "src": "https://uc597372c77ea8f00eded4a0d2c4.dl.dropboxusercontent.com/cd/0/inline/C1wjjFbyURIMetEVcU_XKTQPjFvBsOjwFRYwiRvNT20jx0HnInxuweHUXG5Cqh_-9dKLCDD15uB-coC1F11D9dgUmf0obNA1LRS7k_C-pR7S3FNIDQQwHQxqddoFGXspexVPxjR2ArBQTw8VWwcNspw2/file#"
     },
@@ -2379,7 +2379,7 @@
       "artist": "Kishore Kumar",
       "year": 1977,
       "genre": "Rock",
-      "rating": "8.5/10",
+      "rating": "8.5",
       "cover": "https://c-cdnet.cdn.smule.com/smule-gg-uw1-s-6/arr/d7/91/6e5330a5-b48f-4e3c-8e76-b9164a9b6ac7.jpg",
       "src": "https://uc051fc5e49bd2cacf82069f1db3.dl.dropboxusercontent.com/cd/0/inline/C1xMFiFBYluNd1SIrA0ggm8LSVD-QYi3f752bkaR_aGQGszdZFiTO8KiMBzGBYOS-cC6W1DJrXj_l8OI5liX830MMG8w-mwaZXjg9KKnYOITCkzVT-cYLJBIwuFmgBTs_da2uTQe7W3hzvyHvJFMX65N/file#"
     },
@@ -2389,9 +2389,19 @@
       "artist": "Kishore Kumar and Lata Mangeshkar",
       "year": 1974,
       "genre": "Rock",
-      "rating": "9.2/10",
+      "rating": "9.2",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHyq0njlOXxUaD3Uay4d3s2IeGpQB8P-r4VW7FdvwVKACFuE0kLJ_H7q9v-vE&s",
       "src": "https://uc686d3ba0abe03d1a00a7cbf801.dl.dropboxusercontent.com/cd/0/inline/C1yI_x53O3TC4YnvZMl5D8sJfsoZrSqgLs2WHCEUbw55jglk3HFbXVjizzZNQM_6R77fPAJMaqAjN_lcB2Xuxx40k1KHbIbsY1C4c2y8TRFBENaNFJ5o4IPa80VXvtOBGgyK6Th1ML6DKN5jK9anEi3o/file#"
+    },
+    {
+      "id": 263,
+      "title": "Envy Slowed",
+      "artist": "slxughter",
+      "year": 2025,
+      "genre": "Phonk",
+      "rating": "7.2",
+      "cover": "https://i1.sndcdn.com/artworks-0KC8xXpLBARGiKOs-JJgEnQ-t1080x1080.png",
+      "src": "https://ucdd5079f10006bdc5e813259e67.dl.dropboxusercontent.com/cd/0/inline/C1y4oINotN8nHBC4KNIwyiFql8ju6LOWUSH6I34jV1s4k4V-bISO-izRNdJw2oPTLmUJ_ZYg495JG3T5AXG2_bO3Kgt_L9d3o3n_jZyB4ZSMxALE7DTFuVqg5a2OUWjSWDZf9UuFwIVMrwgXDzgaeHHy/file#"
     }
   ],
   "url": "https://github.com/mrtariq00/api-s/raw/refs/heads/main/"
